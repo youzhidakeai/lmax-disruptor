@@ -9,8 +9,5 @@
         <module name="disruptor" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="disruptor" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
