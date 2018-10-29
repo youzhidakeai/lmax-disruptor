@@ -2,61 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de6e770-23de-4c3b-a91c-ce5d05e89d29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dengkunchen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/TradePushlisher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disruptor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/quickstart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/quickstart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +28,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
-          <entry key="java" value="28" />
+          <entry key="java" value="34" />
           <entry key="mvnw" value="1" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
@@ -85,7 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="34" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
@@ -94,14 +46,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="1389" />
+          <entry key="java" value="2755" />
           <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="1389" />
+          <entry key="JAVA" value="2755" />
           <entry key="XML" value="12" />
         </counts>
       </usages-collector>
@@ -110,82 +62,54 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="51" column="15" lean-forward="true" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+            <state relative-caret-position="763">
+              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#287#294#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#996#1003#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="468">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.3.2/disruptor-3.3.2.jar!/com/lmax/disruptor/dsl/Disruptor.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/TradePushlisher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding>
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="572">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/DisruptorApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/quickstart/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/TradePushlisher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler2.java" />
@@ -219,6 +142,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Handler5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Trade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Main.java" />
       </list>
     </option>
   </component>
@@ -325,6 +253,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="disruptor" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="disruptor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lmax-disruptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="disruptor" type="462c0819:PsiDirectoryNode" />
+              <item name="mulit" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -336,7 +273,7 @@
     <property name="SearchEverywhereHistoryKey" value="TimeoutB&#9;PSI&#9;JAVA://com.lmax.disruptor.TimeoutBlockingWaitStrategy" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540798914421" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540807923553" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -346,6 +283,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.disruptor.mulit" />
       <recent name="com.imooc.disruptor.height" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
@@ -365,32 +303,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="ArrayBlockingQueue4Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.disruptor.concurrencytest.ArrayBlockingQueue4Test" />
-      <module name="disruptor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.disruptor.concurrencytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisruptorSingle4Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.disruptor.concurrencytest.DisruptorSingle4Test" />
-      <module name="disruptor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.disruptor.concurrencytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.disruptor.quickstart.Main" />
       <module name="disruptor" />
@@ -417,6 +329,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.disruptor.mulit.Main" />
+      <module name="disruptor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.disruptor.mulit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisruptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="disruptor" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.disruptor.DisruptorApplication" />
@@ -426,15 +351,12 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.DisruptorApplication" />
-      <item itemvalue="Application.ArrayBlockingQueue4Test" />
-      <item itemvalue="Application.DisruptorSingle4Test" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DisruptorSingle4Test" />
-        <item itemvalue="Application.ArrayBlockingQueue4Test" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -449,12 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540775066997</updated>
-      <workItem from="1540775069695" duration="12090000" />
+      <workItem from="1540775069695" duration="19883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12090000" />
+    <option name="totallyTimeSpent" value="19883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1249" y="25" width="1311" height="1415" extended-state="0" />
@@ -464,17 +386,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.250591" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.250591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32931727" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32955405" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32955405" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32879817" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32879817" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32879817" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,16 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/quickstart/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -734,13 +646,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="51" column="15" lean-forward="true" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        <state relative-caret-position="26">
+          <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#287#294#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/height/Trade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/disruptor/mulit/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#996#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>
