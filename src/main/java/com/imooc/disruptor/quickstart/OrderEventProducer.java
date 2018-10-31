@@ -8,7 +8,7 @@ import java.nio.ByteBuffer;
  * Created with IntelliJ IDEA.
  * Description:
  * User: kkc
- * Email: wochiyouzhi@gmail.com
+ * Email: wochiyouzhi@gmail.common
  * Date: 2018-10-28
  * Time: 下午4:57
  */
