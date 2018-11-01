@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de6e770-23de-4c3b-a91c-ce5d05e89d29" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/common/MarshallingCodeCFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/NettyClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/NettyClientApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/NettyClinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/NettyClinet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/server/NettyServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/server/NettyServerApplication.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> e34cfaaf75c090c83b307d83bb7c1c8af07acefb
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +24,7 @@
     <session id="-1237378917">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -278,9 +282,15 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1267" />
     <option name="y" value="25" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1329" />
+    <option name="y" value="379" />
+>>>>>>> e34cfaaf75c090c83b307d83bb7c1c8af07acefb
     <option name="width" value="1293" />
     <option name="height" value="1415" />
   </component>
@@ -463,7 +473,11 @@
     <property name="SearchEverywhereHistoryKey" value="TimeoutB&#9;PSI&#9;JAVA://com.lmax.disruptor.TimeoutBlockingWaitStrategy" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541060737694" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540980414609" />
+>>>>>>> e34cfaaf75c090c83b307d83bb7c1c8af07acefb
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -633,14 +647,22 @@
       <workItem from="1540775069695" duration="20443000" />
       <workItem from="1540860540298" duration="3265000" />
       <workItem from="1540865248394" duration="18026000" />
+<<<<<<< HEAD
       <workItem from="1540956367616" duration="13554000" />
       <workItem from="1541035373071" duration="2248000" />
       <workItem from="1541050121193" duration="2892000" />
+=======
+      <workItem from="1540956367616" duration="14018000" />
+>>>>>>> e34cfaaf75c090c83b307d83bb7c1c8af07acefb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="60428000" />
+=======
+    <option name="totallyTimeSpent" value="55752000" />
+>>>>>>> e34cfaaf75c090c83b307d83bb7c1c8af07acefb
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
