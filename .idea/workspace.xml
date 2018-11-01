@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de6e770-23de-4c3b-a91c-ce5d05e89d29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/MessageConsumerImpl4Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/common/TranslatorDataWapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/disruptor/MessageConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/disruptor/MessageProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/disruptor/RingBufferWorkerPoolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/server/MessageConsumerImpl4Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/client/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/server/ServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/disruptor/netty/server/ServerHandler.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +15,7 @@
     <session id="-1237378917">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -253,8 +245,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1267" />
-    <option name="y" value="25" />
+    <option name="x" value="1329" />
+    <option name="y" value="379" />
     <option name="width" value="1293" />
     <option name="height" value="1415" />
   </component>
@@ -436,7 +428,7 @@
     <property name="SearchEverywhereHistoryKey" value="TimeoutB&#9;PSI&#9;JAVA://com.lmax.disruptor.TimeoutBlockingWaitStrategy" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540979862494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540980414609" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -600,12 +592,12 @@
       <workItem from="1540775069695" duration="20443000" />
       <workItem from="1540860540298" duration="3265000" />
       <workItem from="1540865248394" duration="18026000" />
-      <workItem from="1540956367616" duration="13554000" />
+      <workItem from="1540956367616" duration="14018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55288000" />
+    <option name="totallyTimeSpent" value="55752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1267" y="25" width="1293" height="1415" extended-state="0" />
